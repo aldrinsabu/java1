@@ -13,7 +13,7 @@ class GFG {
         // Swapping the values
         int temp = m;
         m = s;
-        n = temp
+        n = temp;
         System.out.println("Value of m is " + m
                            + " and Value of n is " + n);
     }
